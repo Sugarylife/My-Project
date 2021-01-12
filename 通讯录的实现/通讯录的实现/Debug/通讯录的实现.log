@@ -1,0 +1,10 @@
+﻿  contact.c
+f:\c\通讯录的实现\通讯录的实现\contact.c(6): warning C4013: “memset”未定义；假设外部返回 int
+f:\c\通讯录的实现\通讯录的实现\contact.c(14): warning C4013: “printf”未定义；假设外部返回 int
+f:\c\通讯录的实现\通讯录的实现\contact.c(19): warning C4013: “scanf”未定义；假设外部返回 int
+f:\c\通讯录的实现\通讯录的实现\contact.c(59): warning C4013: “strcmp”未定义；假设外部返回 int
+f:\c\通讯录的实现\通讯录的实现\contact.c(116): warning C4090: “函数”: 不同的“const”限定符
+f:\c\通讯录的实现\通讯录的实现\contact.c(148): warning C4101: “tmp”: 未引用的局部变量
+  test.c
+  正在生成代码...
+  通讯录的实现.vcxproj -> F:\C\通讯录的实现\Debug\通讯录的实现.exe
